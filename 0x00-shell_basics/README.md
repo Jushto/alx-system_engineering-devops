@@ -9,3 +9,4 @@
 8. Deleting directory
 9. Moving back to previous directory
 10. Printing type of file
+11. Adding symbolic links
