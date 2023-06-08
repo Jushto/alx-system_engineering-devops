@@ -7,4 +7,5 @@
 7. Adding multiple permissions
 8. Graning permission to everyone
 9. Permissions soleley to others
+10. Shell permisions
 
