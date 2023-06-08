@@ -8,4 +8,4 @@
 8. Graning permission to everyone
 9. Permissions soleley to others
 10. Shell permisions
-
+11. Cloning permissions
