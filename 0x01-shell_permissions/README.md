@@ -10,5 +10,6 @@
 10. Shell permisions
 11. Cloning permissions
 12. Creating a directory with permissions
-13. Chanaing group ownership
-
+13.
+14. Chnage owner and group owner of all files and directories within current working directory
+ 
