@@ -2,4 +2,5 @@
 2. Printing username of current user
 3. Printing all groups current user is part of
 4. Changing file ownership
+5. Creating empty file
 
