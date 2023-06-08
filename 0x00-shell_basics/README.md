@@ -7,3 +7,4 @@
 6. Move a file from one directory to another
 7. Delete file from another directory
 8. Deleting directory
+9. Moving back to previous directory
