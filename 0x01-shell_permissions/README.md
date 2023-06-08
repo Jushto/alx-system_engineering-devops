@@ -6,4 +6,5 @@
 6. Adds execute permission to owner
 7. Adding multiple permissions
 8. Graning permission to everyone
+9. Permissions soleley to others
 
