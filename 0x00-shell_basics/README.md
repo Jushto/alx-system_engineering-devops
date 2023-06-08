@@ -6,3 +6,4 @@
 5. Create empty directory in /tmp
 6. Move a file from one directory to another
 7. Delete file from another directory
+8. Deleting directory
