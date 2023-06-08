@@ -9,3 +9,4 @@
 9. Permissions soleley to others
 10. Shell permisions
 11. Cloning permissions
+12. Creating a directory with permissions
