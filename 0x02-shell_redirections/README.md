@@ -7,6 +7,7 @@
 6 - displaying 3rd line
 8 - appending to file
 9 - duplicate last line
+10 - no more .js
 14 - find the word
 15 - counting the word
 17 - Not displaying the specific word
