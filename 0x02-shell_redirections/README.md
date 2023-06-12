@@ -7,3 +7,5 @@
 6 - displaying 3rd line
 8 - appending to file
 9 - duplicate last line
+14 - find the word
+15 - counting the word
