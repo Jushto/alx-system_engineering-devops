@@ -6,3 +6,4 @@
 5 - printing first 10 lines
 6 - displaying 3rd line
 8 - appending to file
+9 - duplicate last line
